@@ -1,0 +1,33 @@
+@CHARSET "EUC-KR";
+
+
+#wrap{
+    width:971px;
+    text-align:left;
+    margin:0;
+    margin-right:auto;
+    margin-left:auto;
+    background-color:#B96DB5;
+    background-repeat:repeat-y;    
+    min-height:780px;
+}
+#sub_menu {
+	width: 250x;
+	float: left;
+	margin: 20px 0;
+}
+#item{
+    width:200px;
+    float:left; margin: 0 13px;
+    text-align: center;
+}
+.clear{clear:both;}
+
+#itemdetail  img {
+	width: 50px;
+	height: 100px;
+	margin-right: 20px;
+}
+form #buttons {
+	margin: 20px 0 0 0;
+}
